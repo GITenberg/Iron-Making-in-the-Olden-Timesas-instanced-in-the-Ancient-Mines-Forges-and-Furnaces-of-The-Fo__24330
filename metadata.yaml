@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26408'
     url: http://www.gutenberg.org/2009/agents/26408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24330#Iron-Making-in-the-Olden-Timesas-instanced-in-the-Ancient-Mines-Forges-and-Furnaces-of-The-Fo_
 gutenberg_issued: '2008-01-16'
 gutenberg_type: Text
 identifiers:
