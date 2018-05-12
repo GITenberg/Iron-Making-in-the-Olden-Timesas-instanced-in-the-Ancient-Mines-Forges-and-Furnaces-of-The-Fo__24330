@@ -1,0 +1,29 @@
+_repo: Iron-Making-in-the-Olden-Timesas-instanced-in-the-Ancient-Mines-Forges-and-Furnaces-of-The-Fo__24330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholls, H. G. (Henry George)
+    birthdate: 1825
+    deathdate: 1867
+    gutenberg_agent_id: '26408'
+    url: http://www.gutenberg.org/2009/agents/26408
+description: ''
+gutenberg_issued: '2008-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TN'
+- !lcsh 'Iron industry and trade -- England'
+- !lcsh 'Iron -- History'
+title: 'Iron Making in the Olden Times
+
+  as instanced in the Ancient Mines, Forges, and Furnaces of The Forest of Dean'
+url: http://www.gutenberg.org/ebooks/24330
